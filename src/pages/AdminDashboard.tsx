@@ -87,7 +87,7 @@ const AdminDashboard = () => {
         </div>
 
         {/* Mobile Phone Mockup */}
-        <div className="flex justify-center px-4 pb-8">
+        <div className="flex justify-center px-4">
           <div className="relative">
             <div className="w-80 h-[500px] bg-black rounded-[2rem] border-2 border-gray-800 shadow-2xl">
               {/* Phone notch */}
@@ -199,6 +199,13 @@ const AdminDashboard = () => {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Bottom Text */}
+        <div className="text-center px-4 pb-8">
+          <h2 className="text-sm text-gray-400 font-light">
+            Dashboard Interface
+          </h2>
         </div>
       </div>
 

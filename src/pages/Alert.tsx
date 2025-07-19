@@ -97,7 +97,7 @@ const Alert = () => {
         </div>
 
         {/* Mobile Phone Mockup */}
-        <div className="flex justify-center px-4 pb-4">
+        <div className="flex justify-center px-4">
           <div className="relative">
             <div className="w-48 h-[360px] bg-black rounded-[2rem] border-2 border-gray-800 shadow-2xl overflow-hidden">
               {/* Phone notch */}
@@ -200,6 +200,13 @@ const Alert = () => {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Bottom Text */}
+        <div className="text-center px-4 py-4">
+          <h2 className="text-sm text-gray-400 font-light">
+            Messaging Interface
+          </h2>
         </div>
 
         {/* Intimate User Button */}

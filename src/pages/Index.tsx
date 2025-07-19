@@ -33,7 +33,7 @@ const Index = () => {
         </div>
 
         {/* Mobile Phone Mockup */}
-        <div className="flex justify-center px-4 pb-8">
+        <div className="flex justify-center px-4">
           <div className="relative">
             <div className="w-48 h-[360px] bg-black rounded-[2rem] border-2 border-gray-800 shadow-2xl">
               {/* Phone notch */}
@@ -49,6 +49,13 @@ const Index = () => {
               </div>
             </div>
           </div>
+        </div>
+
+        {/* Bottom Text */}
+        <div className="text-center px-4 pb-8">
+          <h2 className="text-sm text-gray-400 font-light">
+            Flood Alerting System
+          </h2>
         </div>
       </div>
 
