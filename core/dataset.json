@@ -1,0 +1,50 @@
+{
+  "Road 1": {
+    "population_density": 14000,
+    "elevation": "low",
+    "drainage_quality": "poor",
+    "past_flood_incidents": 3,
+    "nearby_shelters": ["Community Hall A", "School Basement A"],
+    "road_type": "residential"
+  },
+  "Road 2": {
+    "population_density": 3000,
+    "elevation": "high",
+    "drainage_quality": "good",
+    "past_flood_incidents": 0,
+    "nearby_shelters": ["Library B"],
+    "road_type": "commercial"
+  },
+  "Road 3": {
+    "population_density": 8000,
+    "elevation": "medium",
+    "drainage_quality": "moderate",
+    "past_flood_incidents": 1,
+    "nearby_shelters": ["Park Shelter C", "Community Center C"],
+    "road_type": "mixed"
+  },
+  "Road 4": {
+    "population_density": 12000,
+    "elevation": "very low",
+    "drainage_quality": "very poor",
+    "past_flood_incidents": 5,
+    "nearby_shelters": ["Metro Station D"],
+    "road_type": "residential"
+  },
+  "Road 5": {
+    "population_density": 2000,
+    "elevation": "high",
+    "drainage_quality": "excellent",
+    "past_flood_incidents": 0,
+    "nearby_shelters": [],
+    "road_type": "industrial"
+  },
+  "Road 6": {
+    "population_density": 9500,
+    "elevation": "medium",
+    "drainage_quality": "moderate",
+    "past_flood_incidents": 2,
+    "nearby_shelters": ["Sports Complex E", "High School E"],
+    "road_type": "residential"
+  }
+}
